@@ -4,10 +4,7 @@
 
 一份关于无人驾驶汽车的精选资源列表（中文版）
 
-修改自：
-1. [awesome-autonomous-vehicle](https://github.com/DeepTecher/awesome-autonomous-vehicle)
-2. [awesome-robotics](https://github.com/Kiloreux/awesome-robotics)
-3. [takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
+修改自：(1) [awesome-autonomous-vehicle](https://github.com/DeepTecher/awesome-autonomous-vehicle), (2)[awesome-robotics](https://github.com/Kiloreux/awesome-robotics), (3)[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 
 > 将根据工作的时间情况，持续更新最新资源。欢迎pull requests。
 
